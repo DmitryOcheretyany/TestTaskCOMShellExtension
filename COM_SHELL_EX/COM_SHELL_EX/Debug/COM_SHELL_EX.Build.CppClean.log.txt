@@ -1,0 +1,8 @@
+C:\USERS\DM.OCHERETYA\DOWNLOADS\_TESTTASKCOMSHELLEXTENSION\COM_SHELL_EX\COM_SHELL_EX\COM_SHELL_EX\DEBUG\MYINTERFACE.OBJ
+C:\USERS\DM.OCHERETYA\DOWNLOADS\_TESTTASKCOMSHELLEXTENSION\COM_SHELL_EX\COM_SHELL_EX\COM_SHELL_EX\DEBUG\VC110.PDB
+C:\Users\dm.ocheretya\Downloads\_TestTaskCOMShellExtension\COM_SHELL_EX\COM_SHELL_EX\COM_SHELL_EX\Debug\myInterface.obj
+C:\Users\dm.ocheretya\Downloads\_TestTaskCOMShellExtension\COM_SHELL_EX\COM_SHELL_EX\COM_SHELL_EX\Debug\cl.command.1.tlog
+C:\Users\dm.ocheretya\Downloads\_TestTaskCOMShellExtension\COM_SHELL_EX\COM_SHELL_EX\COM_SHELL_EX\Debug\CL.read.1.tlog
+C:\Users\dm.ocheretya\Downloads\_TestTaskCOMShellExtension\COM_SHELL_EX\COM_SHELL_EX\COM_SHELL_EX\Debug\CL.write.1.tlog
+C:\Users\dm.ocheretya\Downloads\_TestTaskCOMShellExtension\COM_SHELL_EX\COM_SHELL_EX\COM_SHELL_EX\Debug\vc110.idb
+C:\Users\dm.ocheretya\Downloads\_TestTaskCOMShellExtension\COM_SHELL_EX\COM_SHELL_EX\COM_SHELL_EX\Debug\vc110.pdb

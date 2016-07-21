@@ -1,0 +1,61 @@
+﻿Build started 7/15/2016 11:58:54 AM.
+     1>Project "C:\Users\dm.ocheretya\Downloads\_TestTaskCOMShellExtension\COM_SHELL_EX\COM_SHELL_EX\COM_SHELL_EX\COM_SHELL_EX.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\Users\dm.ocheretya\Downloads\_TestTaskCOMShellExtension\COM_SHELL_EX\COM_SHELL_EX\\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D COM_SHELL_EX_EXPORTS /D _WINDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\source\myInterface.cpp ..\source\Registry.cpp
+         Registry.cpp
+     1>c:\users\dm.ocheretya\downloads\_testtaskcomshellextension\com_shell_ex\com_shell_ex\include\registrar.h(70): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\dm.ocheretya\downloads\_testtaskcomshellextension\com_shell_ex\com_shell_ex\include\registrar.h(72): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\dm.ocheretya\downloads\_testtaskcomshellextension\com_shell_ex\com_shell_ex\include\registrar.h(78): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\dm.ocheretya\downloads\_testtaskcomshellextension\com_shell_ex\com_shell_ex\include\registrar.h(80): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\dm.ocheretya\downloads\_testtaskcomshellextension\com_shell_ex\com_shell_ex\include\registrar.h(83): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\dm.ocheretya\downloads\_testtaskcomshellextension\com_shell_ex\com_shell_ex\include\registrar.h(84): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : see declaration of 'strcat'
+     1>c:\users\dm.ocheretya\downloads\_testtaskcomshellextension\com_shell_ex\com_shell_ex\include\registrar.h(95): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\dm.ocheretya\downloads\_testtaskcomshellextension\com_shell_ex\com_shell_ex\include\registrar.h(98): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\dm.ocheretya\downloads\_testtaskcomshellextension\com_shell_ex\com_shell_ex\include\registrar.h(101): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\dm.ocheretya\downloads\_testtaskcomshellextension\com_shell_ex\com_shell_ex\include\registrar.h(104): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\dm.ocheretya\downloads\_testtaskcomshellextension\com_shell_ex\com_shell_ex\include\registrar.h(123): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\dm.ocheretya\downloads\_testtaskcomshellextension\com_shell_ex\com_shell_ex\include\registrar.h(135): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>c:\users\dm.ocheretya\downloads\_testtaskcomshellextension\com_shell_ex\com_shell_ex\include\classfactory.hpp(72): warning C4250: 'CClassFactory<comObj>' : inherits 'CComBase<>::CComBase<>::_AddRef' via dominance
+                 with
+                 [
+                     comObj=ShellEx
+                 ]
+                 c:\users\dm.ocheretya\downloads\_testtaskcomshellextension\com_shell_ex\com_shell_ex\include\combase.hpp(71) : see declaration of 'CComBase<>::_AddRef'
+                 c:\users\dm.ocheretya\downloads\_testtaskcomshellextension\com_shell_ex\com_shell_ex\source\registry.cpp(42) : see reference to class template instantiation 'CClassFactory<comObj>' being compiled
+                 with
+                 [
+                     comObj=ShellEx
+                 ]
+     1>c:\users\dm.ocheretya\downloads\_testtaskcomshellextension\com_shell_ex\com_shell_ex\include\classfactory.hpp(72): warning C4250: 'CClassFactory<comObj>' : inherits 'CComBase<>::CComBase<>::_Release' via dominance
+                 with
+                 [
+                     comObj=ShellEx
+                 ]
+                 c:\users\dm.ocheretya\downloads\_testtaskcomshellextension\com_shell_ex\com_shell_ex\include\combase.hpp(77) : see declaration of 'CComBase<>::_Release'
+         myInterface.cpp
+     1>c:\users\dm.ocheretya\downloads\_testtaskcomshellextension\com_shell_ex\com_shell_ex\source\myinterface.cpp(86): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dm.ocheretya\Downloads\_TestTaskCOMShellExtension\COM_SHELL_EX\COM_SHELL_EX\Debug\COM_SHELL_EX.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"definitions.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\dm.ocheretya\Downloads\_TestTaskCOMShellExtension\COM_SHELL_EX\COM_SHELL_EX\Debug\COM_SHELL_EX.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dm.ocheretya\Downloads\_TestTaskCOMShellExtension\COM_SHELL_EX\COM_SHELL_EX\Debug\COM_SHELL_EX.lib" /MACHINE:X86 /DLL Debug\myInterface.obj
+         Debug\Registry.obj
+     1>definitions.def(4): warning LNK4017: DESCRIPTION statement not supported for the target platform; ignored
+            Creating library C:\Users\dm.ocheretya\Downloads\_TestTaskCOMShellExtension\COM_SHELL_EX\COM_SHELL_EX\Debug\COM_SHELL_EX.lib and object C:\Users\dm.ocheretya\Downloads\_TestTaskCOMShellExtension\COM_SHELL_EX\COM_SHELL_EX\Debug\COM_SHELL_EX.exp
+     1>COM_SHELL_EX.exp : warning LNK4070: /OUT:myServ.dll directive in .EXP differs from output filename 'C:\Users\dm.ocheretya\Downloads\_TestTaskCOMShellExtension\COM_SHELL_EX\COM_SHELL_EX\Debug\COM_SHELL_EX.dll'; ignoring directive
+         COM_SHELL_EX.vcxproj -> C:\Users\dm.ocheretya\Downloads\_TestTaskCOMShellExtension\COM_SHELL_EX\COM_SHELL_EX\Debug\COM_SHELL_EX.dll
+     1>Done Building Project "C:\Users\dm.ocheretya\Downloads\_TestTaskCOMShellExtension\COM_SHELL_EX\COM_SHELL_EX\COM_SHELL_EX\COM_SHELL_EX.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.34
